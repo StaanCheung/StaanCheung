@@ -9,6 +9,7 @@ Education:
 - Winchester High School (2020 - 2024)
     - High School Diploma
 - Northeastern University (Current - 2028)
+    - Computer Science and Business Administration
 
 
 Awards:
